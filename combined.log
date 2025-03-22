@@ -1,0 +1,7 @@
+{"level":"info","message":"Hive Exchange Bot starting up...","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.258Z"}
+{"level":"info","message":"Database connection established successfully","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.315Z"}
+{"level":"info","message":"Database models synchronized successfully","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.394Z"}
+{"level":"info","message":"Exchange rates initialized successfully","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.400Z"}
+{"level":"info","message":"Starting user bot...","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.400Z"}
+{"level":"info","message":"Starting admin bot...","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.400Z"}
+{"level":"info","message":"Hive Exchange Bot is now online!","service":"hive-exchange-bot","timestamp":"2025-03-18T13:42:00.400Z"}
